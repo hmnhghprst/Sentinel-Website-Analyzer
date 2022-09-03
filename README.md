@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="#" width="200" />
+  <img src="https://github.com/N0x01X/Sentinel-Website-Analyzer/raw/master/sentinel.png" width="200" />
   <br/>
+Sentinel Website Analyzer is a fast tool for analyzing the A record and IP of a website
 </p>
-<p>
-<a href="#">
-    <img src="https://img.shields.io/badge/python-v3-blue">
-</a>
-</p>
-Analyze a website using its A record and IP
+
+## Features:
+* Extracting A record of websites
+* Extracting website provider
+* ASN
+* Based on RIPE database
+
 
 ## Usage
 
