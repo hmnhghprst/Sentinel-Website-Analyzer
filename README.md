@@ -1,12 +1,18 @@
-# Sentinel Website Analyzer
+<p align="center">
+  <img src="#" width="200" />
+  <br/>
+</p>
 <p>
 <a href="#">
     <img src="https://img.shields.io/badge/python-v3-blue">
 </a>
 </p>
 Analyze a website using its A record and IP
+
 ## Usage
+
 ```
 pip3 install -r requirements.txt
 python3 Sentinel.py
 ```
+
