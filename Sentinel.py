@@ -41,7 +41,7 @@ def main():
         # Values that we want to show
         records = json_res['data']['records'][0]
         irr_records = json_res['data']['irr_records'][0]
-        provider_descr = "No data available"
+        ASN_lookup = ip_ASN = modification = creation = country = ip_range = provider = provider_descr = "No data available"
         for item in records:
             if item['key'] == 'inetnum': ip_range = item['value']
             elif item['key'] == 'netname': provider = item['value']
